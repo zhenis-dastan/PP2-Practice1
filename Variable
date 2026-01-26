@@ -1,1 +1,29 @@
+#ex1
 
+a = 1
+b = 2
+c = a + b
+print(c)
+
+#ex2
+
+x = 10
+x = x + 5
+print(x)
+
+#ex3
+
+price = 99
+print(price)
+
+
+#ex4
+
+is_ok = True
+print(is_ok)
+
+
+#ex5
+
+name = "Dastan"
+print(name)
