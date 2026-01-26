@@ -1,5 +1,0 @@
-x=int(input())
-if x > 3:
-    print("Больше 3")
-else:
-    print("Меньше 3")
