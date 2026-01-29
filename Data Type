@@ -1,0 +1,14 @@
+#ex1
+x = 10        # int
+
+#ex2
+y = 3.5       # float
+
+#ex3
+name = "Tom"  # str
+
+#ex4
+is_ok = True  # bool
+
+#ex5
+nums = [1, 2, 3]  # list
