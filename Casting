@@ -1,0 +1,14 @@
+#ex1
+x = int(3.9)
+
+#ex2
+y = float(5)
+
+#ex3
+z = str(100)
+
+#ex4
+print(int("7") + 1)
+
+#ex5
+print(type(str(25)))
