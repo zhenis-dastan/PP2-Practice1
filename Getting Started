@@ -1,0 +1,27 @@
+#ex1
+
+print("Start learning Python")
+
+#ex2
+
+x = 5
+y = 7
+print(x + y)
+
+
+#ex3
+
+name = "Alex"
+print("Hello,", name)
+
+
+
+#ex4
+
+print("Python version test")
+
+
+
+#ex5
+
+print("Ready!")
