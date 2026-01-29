@@ -1,0 +1,14 @@
+#ex1
+print(5 + 2)
+
+#ex2
+print(10 - 3)
+
+#ex3
+print(4 * 2)
+
+#ex4
+print(8 / 2)
+
+#ex5
+print(2 ** 4)
