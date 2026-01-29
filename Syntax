@@ -1,0 +1,17 @@
+#ex1
+if 10 > 5:
+    print("OK")
+
+#ex2
+for i in range(3):
+    print(i)
+
+#ex3
+def hello():
+    print("Hi")
+
+#ex4
+hello()
+
+#ex5
+print("Syntax")
