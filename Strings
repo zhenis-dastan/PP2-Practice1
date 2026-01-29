@@ -1,0 +1,15 @@
+#ex1
+text = "Hello"
+
+#ex2
+print("Python")
+
+#ex3
+name = "Max"
+print("Hi", name)
+
+#ex4
+print("hello".upper())
+
+#ex5
+print("Python"[1])
